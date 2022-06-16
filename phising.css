@@ -1,0 +1,9 @@
+body {
+  background-image: url(meme.jpg);
+}
+.card {
+  margin: 20px;
+}
+.text {
+  margin-top: 80px;
+}
